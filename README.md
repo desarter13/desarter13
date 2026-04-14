@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **desarter13/desarter13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: Wanna be history teacher but ended up teaching High School Math
--->
+
