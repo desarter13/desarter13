@@ -18,11 +18,13 @@ My name is Evgeny!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desarter13)
 
-## OGS Profile
+## Hobbies
 I really love Game of Go (also called Baduk or Weichi)
 <p>
   <img src="https://cdn.online-go.com/icons/android-chrome-192x192.png" height="28"/> 
   <img src="https://img.shields.io/badge/OGS_Rank-1379-blue?style=for-the-badge"/>
 </p>
+
 ## Fun fact
+
 Wanna be history teacher but ended up teaching High School Math
