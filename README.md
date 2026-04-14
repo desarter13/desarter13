@@ -12,6 +12,7 @@ My name is Evgeny!
 ![DataLens](https://img.shields.io/badge/DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)](ссылка_на_сайт_python)
+[![LaTeX](https://img.shields.io/badge/language-LaTeX-blue?style=for-the-badge)](ссылка_на_ресурс_о_LaTeX)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](ссылка_на_ваш_профиль_github)
