@@ -7,9 +7,7 @@ My name is Evgeny!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align='center'>
-  📫 How to reach me: <a href='mailto:desarter13@gmail.com'>desarter13@gmail.com</a>
-</p>
+
 
 
 - Technology stack
