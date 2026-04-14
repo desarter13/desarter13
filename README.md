@@ -1,25 +1,26 @@
 My name is Evgeny!
 
-<p align='center'>
   <a href="https://t.me/desarter">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:desarter13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 
-- Technology stack
+## Technology stack
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![DataLens](https://img.shields.io/badge/DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Yandex DataLens](https://img.shields.io/badge/DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 
-[![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)](ссылка_на_сайт_python)
-[![LaTeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge)](ссылка_на_ресурс_о_LaTeX)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](ссылка_на_ваш_профиль_github)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desarter13)
 
-[![OGS Rank](https://img.shields.io/badge/OGS-Profile-blue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2a/Go_Stone.svg&logoColor=white)](https://online-go.com/user/view/551682)
+## OGS Profile
 
-- Fun fact: Wanna be history teacher but ended up teaching High School Math
+[![OGS Rank](https://img.shields.io/badge/dynamic/json?url=https://online-go.com/api/v1/players/551682&query=$.ranking&label=OGS%20Rank&color=blue&style=for-the-badge)](https://online-go.com/user/view/551682)
+
+## Fun fact
+Wanna be history teacher but ended up teaching High School Math
