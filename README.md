@@ -11,7 +11,7 @@ My name is Evgeny!
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Yandex DataLens](https://img.shields.io/badge/DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
+![Yandex DataLens](https://img.shields.io/badge/DataLens-5282FF?style=for-the-badge&logo=yandex&logoColor=black)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
