@@ -7,10 +7,9 @@ My name is Evgeny!
 
 - Technology stack
 
-[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-blue?logo=microsoft)](ссылка_на_сайт_office)
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-green?logo=microsoft-excel&logoColor=white)](ссылка_на_сайт_excel)
-[![DataLens](https://img.shields.io/badge/DataLens-orange?logo=yandex)](ссылка_на_сайт_datalens)
-
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DataLens (Yandex)](https://img.shields.io/badge/DataLens-orange?style=for-the-badge&logo=yandex&logoColor=white)
 
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)](ссылка_на_сайт_python)
 
