@@ -1,4 +1,5 @@
 My name is Evgeny!
+
 <p align='center'>
   <a href="https://t.me/desarter">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -7,8 +8,6 @@ My name is Evgeny!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
 
 - Technology stack
 
@@ -19,10 +18,8 @@ My name is Evgeny!
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)](ссылка_на_сайт_python)
 [![LaTeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge)](ссылка_на_ресурс_о_LaTeX)
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](ссылка_на_ваш_профиль_github)
 
-
 [![OGS Rank](https://img.shields.io/badge/OGS-Profile-blue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2a/Go_Stone.svg&logoColor=white)](https://online-go.com/user/view/551682)
-- Fun fact: Wanna be history teacher but ended up teaching High School Math
 
+- Fun fact: Wanna be history teacher but ended up teaching High School Math
