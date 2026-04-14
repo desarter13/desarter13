@@ -2,8 +2,19 @@
 
 
 My name is Evgeny!
+</p>
 
-- I’m currently learning Python
+<p align='center'>
+   <a href="https://www.linkedin.com/in/romankh3/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="[https://t.me/joinchat/SpqRPBFo_sM6qm05](https://t.me/desarter)">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+</p>
+
 
 - Technology stack
 
@@ -12,7 +23,7 @@ My name is Evgeny!
 ![DataLens](https://img.shields.io/badge/DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)](ссылка_на_сайт_python)
-[![LaTeX](https://img.shields.io/badge/language-LaTeX-blue?style=for-the-badge)](ссылка_на_ресурс_о_LaTeX)
+[![LaTeX](https://img.shields.io/badge/LaTeX-blue?style=for-the-badge)](ссылка_на_ресурс_о_LaTeX)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](ссылка_на_ваш_профиль_github)
