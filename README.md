@@ -20,7 +20,6 @@ My name is Evgeny!
 
 ## OGS Profile
 
-[![OGS Rank](https://img.shields.io/badge/dynamic/json?url=https://online-go.com/api/v1/players/551682&query=$.ranking&label=OGS%20Rank&color=blue&style=for-the-badge)](https://online-go.com/user/view/551682)
-
+![OGS Rank](https://img.shields.io/badge/OGS-8k-blue?style=for-the-badge)
 ## Fun fact
 Wanna be history teacher but ended up teaching High School Math
