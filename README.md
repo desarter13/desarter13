@@ -17,6 +17,6 @@ My name is Evgeny!
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](ссылка_на_ваш_профиль_github)
 
 
-[![OGS Rank](https://img.shields.io/badge/OGS-Evgeny_12k-blue?style=for-the-badge&logo=go&logoColor=white)](https://online-go.com/user/view/551682)
+[![OGS Rank](https://img.shields.io/badge/OGS-Profile-blue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2a/Go_Stone.svg&logoColor=white)](https://online-go.com/user/view/551682)
 - Fun fact: Wanna be history teacher but ended up teaching High School Math
 
