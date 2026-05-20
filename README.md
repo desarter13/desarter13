@@ -25,6 +25,4 @@ I really love Game of Go (also called Baduk or Weichi)
   <img src="https://img.shields.io/badge/OGS_Rank-1379-blue?style=for-the-badge"/>
 </p>
 
-## Fun fact
 
-Wanna be history teacher but ended up teaching High School Math
