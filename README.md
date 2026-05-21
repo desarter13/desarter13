@@ -16,7 +16,7 @@ My name is Evgeny!
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
 
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 
@@ -24,6 +24,8 @@ My name is Evgeny!
 
 ## Currently learning
 
+[![A/B Tests](https://img.shields.io/badge/A%2FB_Tests-605D9D?style=for-the-badge&logo=experiment&logoColor=white)](https://www.optimizely.com/ab-testing/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 
 ## Hobbies
 I really love Game of Go (also called Baduk or Weichi)
