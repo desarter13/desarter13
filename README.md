@@ -1,37 +1,36 @@
-My name is Evgeny!
+# Привет, я Евгений 👋
 
-  <a href="https://t.me/desarter">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:desarter13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Развиваюсь в аналитике данных: работаю с SQL, таблицами, визуализациями
+и Python, чтобы превращать данные в понятные выводы.
 
-## Technology stack
+## Чем занимаюсь
 
+- Анализирую данные и готовлю отчёты
+- Пишу SQL-запросы и работаю с PostgreSQL
+- Автоматизирую повторяющиеся задачи в Excel и Python
+- Создаю дашборды в DataLens
+- Изучаю продуктовую аналитику и A/B-тестирование
+
+## Инструменты
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-
 ![DataLens](https://img.shields.io/badge/DataLens-000000?style=for-the-badge&logo=yandex-cloud&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+## Сейчас изучаю
 
+- A/B-тестирование и статистику
+- NumPy и анализ данных на Python
 
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
+## Связаться со мной
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desarter13)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/desarter)
 
-## Currently learning
+## Вне работы
 
-[![A/B Tests](https://img.shields.io/badge/A%2FB_Tests-605D9D?style=for-the-badge&logo=experiment&logoColor=white)](https://www.optimizely.com/ab-testing/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-
-## Hobbies
-I really love Game of Go (also called Baduk or Weichi)
-<p>
-  <img src="https://cdn.online-go.com/icons/android-chrome-192x192.png" height="28"/> 
-  <img src="https://img.shields.io/badge/OGS_Rank-1379-blue?style=for-the-badge"/>
-</p>
-
-
+Люблю игру го — также известную как бадук или вэйци.
