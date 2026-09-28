@@ -34,6 +34,11 @@
 `Google Sheets` `DataLens`  
 📊 [Дашборд](https://datalens.yandex/bl7yetiqftgiv)
 
+### 🧪 [Statistical Hypothesis Testing: Yandex Knigi and A/B Test](https://github.com/desarter13/Statistical-hypothesis-testing-Yandex-Knigi-and-AB-test)
+Проверка статистических гипотез: сравнение активности пользователей Яндекс Книг в Москве и Санкт-Петербурге (t-тест) и оценка A/B-теста интерфейса интернет-магазина BitMotion Kit (z-тест).  
+`Python` `pandas` `scipy` `statsmodels`  
+📓 [Ноутбук](https://github.com/desarter13/Statistical-hypothesis-testing-Yandex-Knigi-and-AB-test/blob/main/statistical_analysis_project.ipynb)
+
 ## Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/desarter)
