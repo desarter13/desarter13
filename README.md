@@ -22,11 +22,6 @@
 ![DataLens](https://img.shields.io/badge/DataLens-000000?style=for-the-badge&logo=yandex-cloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-## Сейчас изучаю
-
-- A/B-тестирование и статистику
-- NumPy и анализ данных на Python
-
 ## Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/desarter)
