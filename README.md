@@ -43,6 +43,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/desarter)
 
+## Резюме
+
+https://www.overleaf.com/read/gfwgpnkwkchr#e9f2d3 или [тык](Kalamagin_EV (2).pdf)
 ## Вне работы
 
 Люблю игру го — также известную как бадук или вэйци.
