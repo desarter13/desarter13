@@ -45,7 +45,7 @@
 
 ## Резюме
 
-https://www.overleaf.com/read/gfwgpnkwkchr#e9f2d3 или [тык]([Kalamagin_EV (2).pdf](https://github.com/desarter13/desarter13/blob/main/Kalamagin_EV.pdf))
+https://www.overleaf.com/read/gfwgpnkwkchr#e9f2d3 или [тык](https://github.com/desarter13/desarter13/edit/main/Kalamagin_EV.pdf)
 ## Вне работы
 
 Люблю игру го — также известную как бадук или вэйци.
