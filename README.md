@@ -22,6 +22,18 @@
 ![DataLens](https://img.shields.io/badge/DataLens-000000?style=for-the-badge&logo=yandex-cloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+## 🚀 Избранные проекты
+
+### 🎭 [Yandex Afisha Analytics](https://github.com/desarter13/Yandex-Afisha-Analytics)
+Дипломный проект: почему осенью 2024 года меняются продажи билетов. Дашборд в DataLens, исследовательский анализ и проверка гипотез в Python.  
+`SQL` `PostgreSQL` `DataLens` `Python` `pandas` `scipy`  
+📊 [Дашборд](https://datalens.yandex/nozis2qzh2f06?_share_link=public&state=c50dcbe4123&tab=Z4) · 📓 [Ноутбук](https://github.com/desarter13/Yandex-Afisha-Analytics/blob/main/yandex_afisha_eda.ipynb)
+
+### 📋 [Teachers Survey Analysis and Visualization](https://github.com/desarter13/Teachers-Survey-Analysis-and-Visualization)
+Анализ рабочей деятельности учителей школы по результатам собственного опроса. Сбор данных в Google Sheets, дашборд с выводами на каждой странице в DataLens.  
+`Google Sheets` `DataLens`  
+📊 [Дашборд](https://datalens.yandex/bl7yetiqftgiv)
+
 ## Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/desarter)
